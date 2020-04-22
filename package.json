@@ -28,6 +28,7 @@
     "columnify": "1.5.4",
     "css-loader": "3.5.2",
     "got": "11.0.0",
+    "hyper": "link:/home/ajs/Documents/GitHub/hyper/",
     "json-loader": "0.5.7",
     "mousetrap": "chabou/mousetrap#useCapture",
     "ms": "2.1.2",
